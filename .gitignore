@@ -1,0 +1,5 @@
+prometheus-msk-discovery
+.idea/
+
+# test output
+msk_file_sd.yml
