@@ -9,7 +9,6 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.19
 	github.com/aws/smithy-go v1.13.3
 	github.com/go-yaml/yaml v2.1.0+incompatible
-	gopkg.in/yaml.v2 v2.2.8
 )
 
 require (
@@ -21,4 +20,5 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.11.23 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.13.6 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
