@@ -1,4 +1,4 @@
-# Prometheus Amazon MSK discovery
+# Prometheus AWS MSK discovery
 
 Heavily based on [teralytics/prometheus-ecs-discovery](https://github.com/teralytics/prometheus-ecs-discovery),
 but exports MSK instead of ECS.
