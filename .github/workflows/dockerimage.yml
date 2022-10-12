@@ -2,7 +2,8 @@ name: Docker Buildx & Publish Image
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   id-token: write
