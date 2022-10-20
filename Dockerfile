@@ -8,7 +8,7 @@ WORKDIR /src
 
 RUN apk --no-cache add git
 COPY *.go go.mod go.sum ./
-RUN CGO_ENABLED=0 GOOS=linux go build -o /bin/prometheus-ecs-discovery .
+RUN CGO_ENABLED=0 GOOS=linux go build -o /bin/prometheus-msk-discovery .
 
 FROM alpine:latest
 
