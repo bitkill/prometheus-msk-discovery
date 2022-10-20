@@ -17,7 +17,7 @@ LABEL org.opencontainers.image.name="bitkill/prometheus-msk-discovery"
 LABEL org.opencontainers.image.license="Apache-2.0"
 
 RUN apk --no-cache add ca-certificates
-COPY --from=build /bin/prometheus-ecs-discovery /bin/
+COPY --from=build /bin/prometheus-msk-discovery /bin/
 
 # Add sample config in case its needed
 COPY ./example/prometheus.yml /etc/prometheus/
