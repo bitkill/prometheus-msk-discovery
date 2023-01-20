@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.7
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.7
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.19.0
-	github.com/aws/aws-sdk-go-v2/service/sts v1.17.7
+	github.com/aws/aws-sdk-go-v2/service/sts v1.18.0
 	github.com/aws/smithy-go v1.13.5
 	github.com/go-yaml/yaml v2.1.0+incompatible
 )
