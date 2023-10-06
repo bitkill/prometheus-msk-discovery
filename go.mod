@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.41
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.22.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.23.0
-	github.com/aws/smithy-go v1.14.2
+	github.com/aws/smithy-go v1.15.0
 	github.com/go-yaml/yaml v2.1.0+incompatible
 )
 
