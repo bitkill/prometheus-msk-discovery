@@ -3,7 +3,7 @@ module prometheus-msk-discovery
 go 1.18
 
 require (
-	github.com/aws/aws-sdk-go-v2/config v1.19.0
+	github.com/aws/aws-sdk-go-v2/config v1.19.1
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.43
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.23.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.23.2
