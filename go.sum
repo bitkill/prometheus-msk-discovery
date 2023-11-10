@@ -20,8 +20,8 @@ github.com/aws/aws-sdk-go-v2/internal/ini v1.3.45/go.mod h1:lD5M20o09/LCuQ2mE62M
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.37/go.mod h1:vBmDnwWXWxNPFRMmG2m/3MKOe+xEcMDo1tanpaWCcck=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.10.2 h1:h7j73yuAVVjic8pqswh+L/7r2IHP43QwRyOu6zcCDDE=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.10.2/go.mod h1:H07AHdK5LSy8F7EJUQhoxyiCNkePoHj2D8P2yGTWafo=
-github.com/aws/aws-sdk-go-v2/service/kafka v1.24.0 h1:25GTIbwI/L/zdNHTxzJDg4JiiLOnZBL2WZSj8UyK16M=
-github.com/aws/aws-sdk-go-v2/service/kafka v1.24.0/go.mod h1:n5GUmBbNhSLO2NMpODVwrfqqZWaP2cro4QXxamzU1RE=
+github.com/aws/aws-sdk-go-v2/service/kafka v1.26.1 h1:e1VekkYPQMIM5wYRubPz+uz638bEc1SV+35twibEnw4=
+github.com/aws/aws-sdk-go-v2/service/kafka v1.26.1/go.mod h1:pISEr2hcg0OY9F3uClwbIpsTl2Ft2S0aDdvb9Q22vqY=
 github.com/aws/aws-sdk-go-v2/service/sso v1.15.2/go.mod h1:gsL4keucRCgW+xA85ALBpRFfdSLH4kHOVSnLMSuBECo=
 github.com/aws/aws-sdk-go-v2/service/sso v1.17.0 h1:I/Oh3IxGPfHXiGnwM54TD6hNr/8TlUrBXAtTyGhR+zw=
 github.com/aws/aws-sdk-go-v2/service/sso v1.17.0/go.mod h1:H6NCMvDBqA+CvIaXzaSqM6LWtzv9BzZrqBOqz+PzRF8=
