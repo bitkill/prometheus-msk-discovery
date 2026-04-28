@@ -1,6 +1,7 @@
 module prometheus-msk-discovery
 
-go 1.18
+go 1.24
+
 toolchain go1.24.1
 
 require (
@@ -8,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.62
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.31.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.17
-	github.com/aws/smithy-go v1.22.2
+	github.com/aws/smithy-go v1.25.1
 	github.com/go-yaml/yaml v2.1.0+incompatible
 )
 
